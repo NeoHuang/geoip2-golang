@@ -13,3 +13,4 @@ install:
   - go get github.com/oschwald/maxminddb-golang
   - go get launchpad.net/gocheck
 
+sudo: false
